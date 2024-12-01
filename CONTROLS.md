@@ -22,12 +22,7 @@ This document provides detailed information about how to interact with the A* Pa
   - Removes all obstacles and the path
   - Resets to initial state
 
-- **R Key**:
-  - Resets the path
-  - Keeps obstacles but clears the calculated path
-  - Allows for new path calculation
-
 ## Tips
 - Place obstacles before starting the algorithm
 - Use Clear (C) if you want to start fresh
-- Use Reset (R) to try different paths with the same obstacles
+
