@@ -14,7 +14,7 @@ This project demonstrates the A* search algorithm in a visual environment, allow
 - To install the required packages, run :
 ```bash  
 pip install -r requirements.txt 
-
+```
 ## Installation
 
 1. Clone the repository
