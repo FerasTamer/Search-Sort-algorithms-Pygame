@@ -11,6 +11,9 @@ This project demonstrates the A* search algorithm in a visual environment, allow
 ## Prerequisites
 
 - Python 3.6.10
+- To install the required packages, run :
+```bash  
+pip install -r requirements.txt 
 
 ## Installation
 
@@ -19,6 +22,4 @@ This project demonstrates the A* search algorithm in a visual environment, allow
 git clone https://github.com/FerasTamer/search-algorithms-pygame.git
 cd search-algorithms-pygame
 
-## To install the required packages, run
-```bash  
-pip install -r requirements.txt  
+ 
